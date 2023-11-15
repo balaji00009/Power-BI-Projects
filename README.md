@@ -9,10 +9,10 @@
 
 # 🌟 Features
 
-# Visualize daily, weekly, and monthly sales trends.
-# Explore the most popular pizza varieties and toppings.
-# Analyze customer demographics and preferences.
-# Monitor sales performance across different locations.
+1. Visualize daily, weekly, and monthly sales trends.
+2. Explore the most popular pizza varieties and toppings.
+3. Analyze customer demographics and preferences.
+4. Monitor sales performance across different locations.
 
 # Preview
 
@@ -25,10 +25,10 @@ Check out a sneak peek of the dashboard or report below:
 
 # 🌟 Features
 
-# Analyze sales performance for top retailers.
-# Visualize market share across different product categories.
-# Explore consumer demographics and preferences.
-# Monitor regional variations in purchasing behavior.
+1. Analyze sales performance for top retailers.
+2. Visualize market share across different product categories.
+3. Explore consumer demographics and preferences.
+4. Monitor regional variations in purchasing behavior.
 
 Check out a sneak peek of the dashboard or report below:
 [link_to_preview_image](https://www.novypro.com/project/american-retailers)
